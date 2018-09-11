@@ -31,6 +31,7 @@ This full-stack site will take in results from your users' surveys, then compare
   4. In the Command Line run: `node server`
   5. The server is listing on port 8080. Navigate here in a browser [http://localhost:8080](http://localhost:8080) 
   6. Follow the instructions and fill out the survey
+  7. Deployed on heroku: [https://aqueous-dawn-41969.herokuapp.com](https://aqueous-dawn-41969.herokuapp.com)
 
 
 
